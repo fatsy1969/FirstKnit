@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Thelma Means"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,28 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I went to Vallejo Senior High School. graduated in 1987
+I took English in 2019 and received an A in the class. Math is not one of my strong subjects. The subject that  I did best in would be english.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
      
 
@@ -26,14 +47,15 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+ I have an apple computer that was given to me by my daughter. from a scale 1/10 my score would be an 8. my internet connection at home is great no problems.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+ 
+The name that I prefer to be called by my professor and classmates is Thelma. If my buddy calls me something and I want people in the the class to call me something else that would be Fatsy. 
    
  
 
@@ -45,6 +67,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
+I would like to achieve being the best me that I can be for the people who bask in my presence. The college subject that I believe would be of the greatest interest to me would be Anatomy. The certifcate that I will achieve is RN.
    
  
 
@@ -56,7 +79,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I have never travelled to a forein country. But, would like to go to Dubai. I have never been in the military. The branch I would choose if i got drafted would be the Navy because I have family members that have served many years in the navy.   
   
 
 
@@ -66,7 +89,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
-
+This is my first time taking math 115. The grade that I will obtain by the grace of God is an A. thats the plan LOL. my plan is to become the best RN.
 ### my answer     
   
    
